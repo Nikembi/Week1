@@ -23,9 +23,9 @@ namespace week1._1
             foreach (string friend in friends)
             {   
                 Console.WriteLine($"First friend is {friends[0]}");
-                Console.WriteLine($"First friend is {friends[1]}");
-                Console.WriteLine($"First friend is {friends[2]}");
-                Console.WriteLine($"First friend is {friends[3]}");
+                Console.WriteLine($"Second friend is {friends[1]}");
+                Console.WriteLine($"Third friend is {friends[2]}");
+                Console.WriteLine($"Fourth friend is {friends[3]}");
                 break;
             }
         }
